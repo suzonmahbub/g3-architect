@@ -57,10 +57,7 @@ body {
   font-weight: 500;
   color: var(--secondary-dark);
 }
-.menu-icon {
-  font-size: 24px;
-  display: none;
-}
+
 .banner {
   max-width: 1152px;
   margin: 0 auto;
@@ -381,6 +378,7 @@ body {
   }
   .menu-icon {
     display: flex;
+    font-size: 24px;
   }
   .banner-content {
     padding-bottom: 30px;
@@ -501,6 +499,7 @@ body {
 
   .menu-icon {
     display: flex;
+    font-size: 24px;
   }
   /* feature section */
   .feature-section {
