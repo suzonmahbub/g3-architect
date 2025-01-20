@@ -197,6 +197,18 @@ body {
   flex-direction: column;
   margin-top: 16px;
 }
+.sub-content .sub-title {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.sub-content .sub-description {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  color: var(--secondary-color);
+  margin-top: 8px;
+}
 .feature-love-image-and-experience-container {
   position: relative;
 }
