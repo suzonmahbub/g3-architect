@@ -58,6 +58,11 @@ body {
   color: var(--secondary-dark);
 }
 
+.menu-icon {
+  font-size: 24px;
+  display: none;
+}
+
 .banner {
   max-width: 1152px;
   margin: 0 auto;
